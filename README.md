@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **nikkurai9999@gmail.com**.
 
-- 📄 Checkout out my [Resume](https://drive.google.com/file/d/1WiDrW0CYhOvTeNsLC4Z381VBDt5NKlm6/view?usp=sharing).
+- 📄 Checkout out my [Portfolio](https://nizero6-portfolio.netlify.app).
 
 <br>
 
