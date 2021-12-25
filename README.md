@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **nikkurai9999@gmail.com**.
 
-- 📄 Checkout out my [Portfolio](https://nizero6-portfolio.netlify.app).
+- 📄 Checkout out my <a href="https://nikzero6-portfolio.netlify.app" target="_blank">Portfolio</a>.
 
 <br>
 
