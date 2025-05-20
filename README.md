@@ -24,8 +24,8 @@
 <a href="https://linkedin.com/in/nikkurai9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikkurai9999" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/nikkurai9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikkurai9999" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikkurai9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikkurai9999" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/nikkurai9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikkurai9999" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/nikzero6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikzero6" height="30" width="40" /></a>&nbsp;&nbsp;
+<!-- <a href="https://www.leetcode.com/nikkurai9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikkurai9999" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/nikzero6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikzero6" height="30" width="40" /></a>&nbsp;&nbsp; -->
 </p>
 
 <hr/>
