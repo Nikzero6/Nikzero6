@@ -48,11 +48,6 @@
 - 📫 Email: nikhil.be.careers@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikkurai9999/)
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/69518599/137259500-9b97cc0a-b7dc-4839-87e5-e1dc2759c645.png"/>
-<br>
-
 <!-- <h3 align="center">Connect with me:</h3> -->
 <!-- <p align="center"> -->
 <!-- <a href="https://linkedin.com/in/nikkurai9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikkurai9999" height="30" width="40" /></a>&nbsp;&nbsp; -->
